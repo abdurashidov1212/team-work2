@@ -6,6 +6,7 @@ function App() {
   return (
     <>
     <h1>Hello main</h1>
+    <h2>Hello jsx</h2>
     </>
   )
 }
